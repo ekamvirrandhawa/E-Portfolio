@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "E-Portfolio",
+    "section": "",
+    "text": "Welcome! 👋\nMy name is Ekamvir Randhawa, a Global Business student at DCU, from Brock University, majoring in Data Analytics in my final year.\nThis ePortfolio is built with Quarto, Git, and GitHub Pages will showcase\n\nMy About page\n\nA downloadable CV\n\nAnd my many projects I have worked on in my time here at DCU\n\nUse the menu above to explore!"
+  }
+]
