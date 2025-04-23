@@ -2,15 +2,39 @@
 title: "E-Portfolio"
 ---
 
-# Welcome! 👋
+<div class="hero">
+  <h1>Welcome! 👋</h1>
+  <p>My name is Ekamvir Randhawa, a final-year Business Analytics student at DCU.</p>
+  <a class="btn btn-primary" href="about.qmd">Learn More About Me</a>
+</div>
 
-My name is Ekamvir Randhawa, a Global Business student at DCU, from Brock University, majoring in Data Analytics in my final year.
+## Featured Projects
 
-This ePortfolio is built with Quarto, Git, and GitHub Pages will showcase
-
-- My **About** page  
-- A downloadable **CV**  
-- And my many projects I have worked on in my time here at DCU
-
+<div class="projects-grid">
+  <div class="project-card">
+    <img src="https://via.placeholder.com/400x200.png?text=Project+1" alt="Project 1">
+    <div class="project-card-body">
+      ### Project 1
+      A short description of Project 1.
+      [Read More](projects/project1.qmd)
+    </div>
+  </div>
+  <div class="project-card">
+    <img src="https://via.placeholder.com/400x200.png?text=Project+2" alt="Project 2">
+    <div class="project-card-body">
+      ### Project 2
+      A short description of Project 2.
+      [Read More](projects/project2.qmd)
+    </div>
+  </div>
+  <div class="project-card">
+    <img src="https://via.placeholder.com/400x200.png?text=Project+3" alt="Project 3">
+    <div class="project-card-body">
+      ### Project 3
+      A short description of Project 3.
+      [Read More](projects/project3.qmd)
+    </div>
+  </div>
+</div>
 
 Use the menu above to explore!
