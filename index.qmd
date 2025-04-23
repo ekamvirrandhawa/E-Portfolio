@@ -2,6 +2,18 @@
 title: "E-Portfolio"
 ---
 
-This is a Quarto website.
+---
+title: "E-Portfolio"
+---
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+# Welcome! 👋
+
+My name is Ekamvir Randhawa, a Global Business student at DCU, from Brock University, majoring in Data Analytics in my final year.
+
+This ePortfolio is built with Quarto, Git, and GitHub Pages will showcase
+
+- My **About** page  
+- A downloadable **CV**  
+- And my many projects I have worked on in my time here at DCU
+
+Use the menu above to explore!
