@@ -1,0 +1,128 @@
+[
+  {
+    "objectID": "about.html#my-background",
+    "href": "about.html#my-background",
+    "title": "About Me",
+    "section": "My Background",
+    "text": "My Background\nAs a student of the BBA International Double-Degree program across Brock University and Dublin City University, I will also be awarded a BA in Global Business (Data Analytics) in 2025.\n\n\nThis experience across both Canada has enabled me to expand my business expertise through two of the world’s major business cities, Toronto and Dublin. My most recent experience as part of my INTRA term at DCU was at Indeed, where I was a Tax Intern on a premier global tax team based in Dublin. Over the course of it I led statutory financial-statement checks for all non-US entities to ensure compliance, spearheaded an automation project that slashed fee-processing times, and partnered with leadership to gather insights for advanced pricing agreements.\nI’ve also honed my analytical skills coordinating real‑estate pro formas at Rice Group and mitigating risk on $10M+ daily invoice-factoring loans at BVD Capital. Proficient in Python, SQL, Tableau, and advanced Excel, I’m passionate about using data-driven automation to streamline complex financial processes and inform strategic decision-making.\nHere are some of the institutions and organizations that have shaped my journey:"
+  },
+  {
+    "objectID": "about.html#skills-tools",
+    "href": "about.html#skills-tools",
+    "title": "About Me",
+    "section": "Skills & Tools",
+    "text": "Skills & Tools\nPower BI | Python | Process Improvement | Advanced Excel | SQL | PowerPoint | Tableau | Policy Analysis | Machine Learning | Financial Modelling | Economic & Financial Analysis | Detail-Oriented | Financial Reporting |\n\nLanguages: Python, SQL\n\nTools: Git, Quarto, VS Code, SQL\nInterests: Data analytics, Economics, Financial Markets, Basketball, Golf, Cooking"
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About Me",
+    "section": "Contact",
+    "text": "Contact\nFeel free to connect with me on LinkedIn."
+  },
+  {
+    "objectID": "projects/dissertation.html",
+    "href": "projects/dissertation.html",
+    "title": "Dissertation",
+    "section": "",
+    "text": "Shocks and Buffers: Evaluating the Bank of Canada’s COVID-19 Monetary Policy on Household Inflation, Liquidity, and Real Disposable Income\nEkamvir Randhawa, Global Business Thesis, Dublin City University, 2025\nDownload full thesis (PDF)\n\n\n\nThis dissertation investigates how the Bank of Canada’s rapid shift from near-zero rates and quantitative easing to an aggressive tightening cycle between 2020 Q1 and 2024 Q4 affected Canadian households. By combining surprise-shock regressions, event-study techniques, and a G7 benchmarking exercise, it traces policy impacts on headline inflation, real disposable income, savings buffers, credit growth, and mortgage arrears.\nKey Findings:\n\nLiquidity as the primary transmission channel: A 100 bp rate hike reduces the household saving rate by ~5 basis points and immediately contracts new consumer credit by 40 percent, while real income remains unchanged on impact.\n\nDefensive repayment behavior: Contrary to expectations, mortgage arrears decline during tightening, reflecting strategic pre-payment decisions reinforced by Canada’s stress-test regime.\n\nModest inflationary effects of QE: Each CAD 10 billion bond-buying injection raises inflation by ~0.02 pp but does not boost real income.\n\nInternational context: Canada’s real-income losses lie between those of the UK/US and France—evidence that targeted fiscal rebates and energy-price caps can cushion households more effectively.\n\n\n\n\n\n\nPost-pandemic pricing pressures: Do Canadians still face elevated inflation after the BoC’s historic policy pivot?\n\nRe-anchoring inflation: Did rate hikes and balance-sheet adjustments successfully return inflation to target?\n\nRestoration of spending power: Has stabilization of prices translated into a recovery of real disposable income?\n\n\n\n\n\n\nData: Quarterly series (2020 Q1–2024 Q4) on CPI, real/nominal disposable income, savings rates, credit growth, and mortgage arrears.\n\nIdentification of shocks:\n\nRate Shock: overnight policy-rate changes\n\nQE Shock: quarter-on-quarter shifts in BoC bond holdings\n\n\nEmpirical blocks:\n\nSurprise-shock OLS regressions with Newey–West errors to estimate immediate elasticities.\n\nEvent-study framework to chart dynamics of savings, credit, and arrears around “high-shock” quarters.\n\nG7 benchmarking of real disposable income and inflation against the US, UK, Germany, and France.\n\nRobustness checks, including alternative trend specifications and placebo windows.\n\n\n\n\n\n\n\nSavings depletion is the first casualty of tightening: households draw down buffers rather than cut income or default.\n\nMortgage arrears fall during tightening—evidence of proactive debt management, not distress.\n\nNon-mortgage credit contracts sharply in shock quarters but rebounds swiftly, implying temporary lender caution.\n\nQE’s role is primarily to sustain price levels, with negligible real-income or borrowing stimuli once GDP trends are controlled.\n\n\n\n\n \n\n\n\n\n\nPolicy coordination: Align tightening with measured fiscal rebates to preserve household liquidity without compromising inflation goals.\n\nRegulatory oversight: Monitor mortgage buffers and stress-test impacts as fixed-rate terms expire.\n\nQE exit strategy: A gradual, data-driven unwind mitigates market disruption while guarding against renewed inflation.\n\nStructural reforms: Address supply-side bottlenecks (e.g., housing, logistics) to complement monetary tools.\n\n\n\n\n\nThis thesis project across my final year was a project that allowed me to delve in my interest in Macroeconomics and expand on my studies in a self guided way while still remaining in the Data Analytics specialism at DCU, this helped me alot as this was alot of data analysis, hence my skills and knowledge from the data analytics specialsm had aided me alot from breaking down data to creating visualizations. It is a project that has allowed me to expand my knowledge about Canadian Banking and economics and find answers to questions that have roamed my mind since the pandemic. Finally, it was a great experience to experience alot of what higher education is founded upon; Research! It has given me further perspective overall of what it is that professors and much instituitions around that world partake in and expend many resources to do so, which has given me a greater appreciation for instituitions and those that are the heart of them all as they are the ones pushing the boundaries of the world and answering the big questions with integrity and precision."
+  },
+  {
+    "objectID": "projects/dissertation.html#abstract",
+    "href": "projects/dissertation.html#abstract",
+    "title": "Dissertation",
+    "section": "",
+    "text": "This dissertation investigates how the Bank of Canada’s rapid shift from near-zero rates and quantitative easing to an aggressive tightening cycle between 2020 Q1 and 2024 Q4 affected Canadian households. By combining surprise-shock regressions, event-study techniques, and a G7 benchmarking exercise, it traces policy impacts on headline inflation, real disposable income, savings buffers, credit growth, and mortgage arrears.\nKey Findings:\n\nLiquidity as the primary transmission channel: A 100 bp rate hike reduces the household saving rate by ~5 basis points and immediately contracts new consumer credit by 40 percent, while real income remains unchanged on impact.\n\nDefensive repayment behavior: Contrary to expectations, mortgage arrears decline during tightening, reflecting strategic pre-payment decisions reinforced by Canada’s stress-test regime.\n\nModest inflationary effects of QE: Each CAD 10 billion bond-buying injection raises inflation by ~0.02 pp but does not boost real income.\n\nInternational context: Canada’s real-income losses lie between those of the UK/US and France—evidence that targeted fiscal rebates and energy-price caps can cushion households more effectively."
+  },
+  {
+    "objectID": "projects/dissertation.html#research-questions",
+    "href": "projects/dissertation.html#research-questions",
+    "title": "Dissertation",
+    "section": "",
+    "text": "Post-pandemic pricing pressures: Do Canadians still face elevated inflation after the BoC’s historic policy pivot?\n\nRe-anchoring inflation: Did rate hikes and balance-sheet adjustments successfully return inflation to target?\n\nRestoration of spending power: Has stabilization of prices translated into a recovery of real disposable income?"
+  },
+  {
+    "objectID": "projects/dissertation.html#methodology",
+    "href": "projects/dissertation.html#methodology",
+    "title": "Dissertation",
+    "section": "",
+    "text": "Data: Quarterly series (2020 Q1–2024 Q4) on CPI, real/nominal disposable income, savings rates, credit growth, and mortgage arrears.\n\nIdentification of shocks:\n\nRate Shock: overnight policy-rate changes\n\nQE Shock: quarter-on-quarter shifts in BoC bond holdings\n\n\nEmpirical blocks:\n\nSurprise-shock OLS regressions with Newey–West errors to estimate immediate elasticities.\n\nEvent-study framework to chart dynamics of savings, credit, and arrears around “high-shock” quarters.\n\nG7 benchmarking of real disposable income and inflation against the US, UK, Germany, and France.\n\nRobustness checks, including alternative trend specifications and placebo windows."
+  },
+  {
+    "objectID": "projects/dissertation.html#key-findings",
+    "href": "projects/dissertation.html#key-findings",
+    "title": "Dissertation",
+    "section": "",
+    "text": "Savings depletion is the first casualty of tightening: households draw down buffers rather than cut income or default.\n\nMortgage arrears fall during tightening—evidence of proactive debt management, not distress.\n\nNon-mortgage credit contracts sharply in shock quarters but rebounds swiftly, implying temporary lender caution.\n\nQE’s role is primarily to sustain price levels, with negligible real-income or borrowing stimuli once GDP trends are controlled."
+  },
+  {
+    "objectID": "projects/dissertation.html#significance-implications",
+    "href": "projects/dissertation.html#significance-implications",
+    "title": "Dissertation",
+    "section": "",
+    "text": "Policy coordination: Align tightening with measured fiscal rebates to preserve household liquidity without compromising inflation goals.\n\nRegulatory oversight: Monitor mortgage buffers and stress-test impacts as fixed-rate terms expire.\n\nQE exit strategy: A gradual, data-driven unwind mitigates market disruption while guarding against renewed inflation.\n\nStructural reforms: Address supply-side bottlenecks (e.g., housing, logistics) to complement monetary tools."
+  },
+  {
+    "objectID": "projects/dissertation.html#reflection",
+    "href": "projects/dissertation.html#reflection",
+    "title": "Dissertation",
+    "section": "",
+    "text": "This thesis project across my final year was a project that allowed me to delve in my interest in Macroeconomics and expand on my studies in a self guided way while still remaining in the Data Analytics specialism at DCU, this helped me alot as this was alot of data analysis, hence my skills and knowledge from the data analytics specialsm had aided me alot from breaking down data to creating visualizations. It is a project that has allowed me to expand my knowledge about Canadian Banking and economics and find answers to questions that have roamed my mind since the pandemic. Finally, it was a great experience to experience alot of what higher education is founded upon; Research! It has given me further perspective overall of what it is that professors and much instituitions around that world partake in and expend many resources to do so, which has given me a greater appreciation for instituitions and those that are the heart of them all as they are the ones pushing the boundaries of the world and answering the big questions with integrity and precision."
+  },
+  {
+    "objectID": "projects/croicara.html#project-overview",
+    "href": "projects/croicara.html#project-overview",
+    "title": "CroiCara",
+    "section": "Project Overview",
+    "text": "Project Overview\n\nWhat is CroíCara?\nA smart health monitoring device aimed to ease the minds of parents of childeren with heart conditons\nWhy did we build it?\nOverall having experiences of family frends who had these conditions growing up we identified that this was a gap in the market that could help parents aroudn the world\nWhat tools and languages did you use?\nI used my data analytics skills to help build the visualizations that would be used for many reports, presentations, and our final business plan\nTimeline & Scope\nDeveloped in the New Enterprise Module, in a team of 4 hard working students"
+  },
+  {
+    "objectID": "projects/croicara.html#project-insights",
+    "href": "projects/croicara.html#project-insights",
+    "title": "CroiCara",
+    "section": "Project Insights",
+    "text": "Project Insights\n\nBackground & Motivation\nAs part of the New Enterprise module, our team identified a clear gap in pediatric health technology: the lack of a non‑invasive, child‑friendly wearable that delivers real‑time vital sign monitoring and alerts. Drawing on first‑hand experiences with family and friends affected by congenital heart conditions, we conceived CroíCara to empower parents with timely, actionable health data and peace of mind.\n\n\nRole & Responsibilities\n\nCFO\nI spearheaded the financials across the company, ensuring overall compliance as being a tech start up in the health industry, it is easy to go bankroupt and overall fail due to the many risks\n\n\n\nOutcomes & Impact\n\nDeveloped and deployed a functioning prototype of the CroíCara wrist device, complete with real‑time alerting via our mobile dashboard.\nGenerated interactive dashboards showcasing device performance, user engagement metrics, and simulated emergency response workflows.\nPresented our solution in the final business plan and pitch deck, earning positive feedback from module instructors and C-Suite professionals"
+  },
+  {
+    "objectID": "projects/croicara.html#reflection",
+    "href": "projects/croicara.html#reflection",
+    "title": "CroiCara",
+    "section": "Reflection",
+    "text": "Reflection\nThis project spanning across final year had taught me alot of the ground work of starting a new business, with current conditions entrepreeurship is looked quite highly upon, however it does not stress the negatives and the heavy work that comes along with it and the big risks. However in this enviorment I along with my team members were able to all expand on our strengths as a whole allowing us to leverage our skills that we have captured over the years and apply it throughout and keeping it all very cohesive."
+  },
+  {
+    "objectID": "Resume.html",
+    "href": "Resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Below is my full Resume. You can scroll through it directly on the page or download it with the button below.\n\n\n\n\nDownload PDF"
+  },
+  {
+    "objectID": "projects/internship.html",
+    "href": "projects/internship.html",
+    "title": "Internship",
+    "section": "",
+    "text": "January 2024 – August 2024 | Dublin, Ireland\n\n\n\n\nStatutory Financial-Statement Reviews\nPerformed detailed checks on quarterly and annual financial statements for all non-US entities to ensure adherence to intercompany transfer-pricing policies and prevent double-taxation risks.\nAutomation Project Lead\nDesigned and implemented an end-to-end automation solution for fee-processing workflows. Reduced manual processing time by over 60% and rolled out the tool across the entire global tax organization.\nFunctional Interviews & Strategic Planning\nPartnered with senior leadership to conduct in-depth interviews with business units. Synthesized their feedback to refine documentation, support a proposed Advance Pricing Agreement (APA), and inform the next cycle of transfer-pricing strategy.\nLocal File Documentation\nAssisted in compiling Transfer Pricing Local Files: gathering transaction data, drafting narratives, and ensuring each country’s documentation met OECD and local-jurisdiction requirements.\nRPSM Expenditure Analysis\nAnalyzed Sales and R&D spend patterns to feed into a Revenue-and-Profit-Split Methodology (RPSM) pilot, helping to allocate profits in line with functional contributions.\n\n\n\n\n\n\nSolving Complex Puzzles\nDiving into multifaceted financial statements and tracing intercompany flows felt like detective work—every project challenge was an opportunity to sharpen my analytical mindset.\nBuilding Cross-Functional Relationships\nCollaborating with leaders in Finance, Legal, and Operations taught me the power of clear communication and mutual trust in driving large-scale initiatives forward. Also, the company had allowed for much collaboration and fun outside of the office, I had the opportunities to further network but beyond that develop great friendships with colleague through many happy-hours, team building activites, and outings.\nDriving Impact with Automation\nWitnessing the “before and after” transformation when our automation tool went live, I witnessed immediately how much of a game changer it was for the team. I don’t think this would have been achievable anywhere else, as Indeed’s enviornment as a whole enabled me to look at things from my perspective and invited me to give my feedback overall where I thought things could be improved, bundled with one very supportive manager and team I flurished both in my skills but also with my personality.\nNavigating Global Tax Nuances\nExploring diverse regulatory environments across EMEA, APAC, and LATAM broadened my understanding of how local rules shape multinational tax strategy.\n\n\n\n\n\n\nAdvanced Data-Handling Techniques\nEnhanced my proficiency in Excel (macros, Power Query) and began scripting lightweight Python routines to validate and reconcile large datasets.\nTransfer-Pricing Fundamentals\nHaving never heard of Transfer Pricing, going into this internship there were alot of ambiguous questions clouding my head. However I gained hands-on experience with OECD guidelines, local file requirements, and the documentation rigor needed to withstand tax authority reviews.\nProject Management & Stakeholder Engagement\nLearned to map stakeholder needs, set realistic timelines, and deliver periodic progress updates—skills that proved critical to keeping our automation rollout on track.\nStrategic Thinking in Tax Policy\nDeveloped an appreciation for how well-crafted transfer-pricing policies can balance compliance, risk mitigation, and operational efficiency in a global business.\n\n\n\n\n\nMy time at Indeed cemented my passion for leveraging data and automation to optimize high-stakes financial workflows. I’m excited to build on these experiences as I tackle new challenges in analytics, policy design, and cross-border strategy. However, even more than all of the great knowledge, and amazing skills, I felt that I grew very much as a person, I before was quite introverted and not too confident in my abilities coming into the internship. Since now, I can say I have developed into a refined young professional with a wealth of knowledge and understanding of the corportate world and the tax realms, and for this I would thank my manager Rory, and the amazing people throughout the company that I met that helped shape the growth I achieved in such a small amount of time."
+  },
+  {
+    "objectID": "projects/internship.html#internship-at-indeed-global-tax-transfer-pricing",
+    "href": "projects/internship.html#internship-at-indeed-global-tax-transfer-pricing",
+    "title": "Internship",
+    "section": "",
+    "text": "January 2024 – August 2024 | Dublin, Ireland\n\n\n\n\nStatutory Financial-Statement Reviews\nPerformed detailed checks on quarterly and annual financial statements for all non-US entities to ensure adherence to intercompany transfer-pricing policies and prevent double-taxation risks.\nAutomation Project Lead\nDesigned and implemented an end-to-end automation solution for fee-processing workflows. Reduced manual processing time by over 60% and rolled out the tool across the entire global tax organization.\nFunctional Interviews & Strategic Planning\nPartnered with senior leadership to conduct in-depth interviews with business units. Synthesized their feedback to refine documentation, support a proposed Advance Pricing Agreement (APA), and inform the next cycle of transfer-pricing strategy.\nLocal File Documentation\nAssisted in compiling Transfer Pricing Local Files: gathering transaction data, drafting narratives, and ensuring each country’s documentation met OECD and local-jurisdiction requirements.\nRPSM Expenditure Analysis\nAnalyzed Sales and R&D spend patterns to feed into a Revenue-and-Profit-Split Methodology (RPSM) pilot, helping to allocate profits in line with functional contributions.\n\n\n\n\n\n\nSolving Complex Puzzles\nDiving into multifaceted financial statements and tracing intercompany flows felt like detective work—every project challenge was an opportunity to sharpen my analytical mindset.\nBuilding Cross-Functional Relationships\nCollaborating with leaders in Finance, Legal, and Operations taught me the power of clear communication and mutual trust in driving large-scale initiatives forward. Also, the company had allowed for much collaboration and fun outside of the office, I had the opportunities to further network but beyond that develop great friendships with colleague through many happy-hours, team building activites, and outings.\nDriving Impact with Automation\nWitnessing the “before and after” transformation when our automation tool went live, I witnessed immediately how much of a game changer it was for the team. I don’t think this would have been achievable anywhere else, as Indeed’s enviornment as a whole enabled me to look at things from my perspective and invited me to give my feedback overall where I thought things could be improved, bundled with one very supportive manager and team I flurished both in my skills but also with my personality.\nNavigating Global Tax Nuances\nExploring diverse regulatory environments across EMEA, APAC, and LATAM broadened my understanding of how local rules shape multinational tax strategy.\n\n\n\n\n\n\nAdvanced Data-Handling Techniques\nEnhanced my proficiency in Excel (macros, Power Query) and began scripting lightweight Python routines to validate and reconcile large datasets.\nTransfer-Pricing Fundamentals\nHaving never heard of Transfer Pricing, going into this internship there were alot of ambiguous questions clouding my head. However I gained hands-on experience with OECD guidelines, local file requirements, and the documentation rigor needed to withstand tax authority reviews.\nProject Management & Stakeholder Engagement\nLearned to map stakeholder needs, set realistic timelines, and deliver periodic progress updates—skills that proved critical to keeping our automation rollout on track.\nStrategic Thinking in Tax Policy\nDeveloped an appreciation for how well-crafted transfer-pricing policies can balance compliance, risk mitigation, and operational efficiency in a global business.\n\n\n\n\n\nMy time at Indeed cemented my passion for leveraging data and automation to optimize high-stakes financial workflows. I’m excited to build on these experiences as I tackle new challenges in analytics, policy design, and cross-border strategy. However, even more than all of the great knowledge, and amazing skills, I felt that I grew very much as a person, I before was quite introverted and not too confident in my abilities coming into the internship. Since now, I can say I have developed into a refined young professional with a wealth of knowledge and understanding of the corportate world and the tax realms, and for this I would thank my manager Rory, and the amazing people throughout the company that I met that helped shape the growth I achieved in such a small amount of time."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "E-Portfolio",
+    "section": "",
+    "text": "My name is Ekamvir Randhawa, a Global Business student at DCU, from Brock University, majoring in Data Analytics in my final year.\nThis ePortfolio is built with Quarto, Git, and GitHub Pages will showcase\n\nMy About page\n\nA downloadable Resume\n\nAnd my many projects and experience I have worked on in my time here at DCU\n\nUse the menu above to explore!\n\n\n\n\n\n Children’s health monitoring device\nRead More →\n\n\n\n\n COVID‑19 monetary policy impact analysis\nRead More →\n\n\n\n Industry placement at Indeed Ireland\nRead More →"
+  },
+  {
+    "objectID": "index.html#featured-projects",
+    "href": "index.html#featured-projects",
+    "title": "E-Portfolio",
+    "section": "",
+    "text": "Children’s health monitoring device\nRead More →\n\n\n\n\n COVID‑19 monetary policy impact analysis\nRead More →\n\n\n\n Industry placement at Indeed Ireland\nRead More →"
+  }
+]

@@ -1,0 +1,30 @@
+/* Custom Royal Blue Theme */
+body {
+  background-color: royalblue;
+  color: white;
+}
+a {
+  color: #add8e6; /* light-blue accents for links */
+}
+a:hover {
+  color: white;
+}
+.navbar, .navbar-nav {
+  background-color: #002080; /* a deeper royal blue for the header */
+}
+.navbar a, .navbar-nav .nav-link {
+  color: white;
+}
+h1, h2, h3, h4, h5, h6 {
+  color: white;
+}
+
+/* Dropdown menu item styling */
+.navbar .dropdown-menu .dropdown-item {
+  color: #add8e6;             /* light-blue ink */
+}
+.navbar .dropdown-menu .dropdown-item:hover,
+.navbar .dropdown-menu .dropdown-item:focus {
+  color: white;               /* white text on hover/focus */
+  background-color: #002080;  /* deep royal-blue background */
+}
